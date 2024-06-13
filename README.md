@@ -21,8 +21,47 @@ A simple and elegant calculator application built using Flutter. This app provid
 
 - Flutter SDK: [Install Flutter](https://flutter.dev/docs/get-started/install)
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## Installation
 
-This README file includes sections for features, screenshots (you'll need to add your own screenshot), getting started instructions, usage information, code overview, dependencies, and contribution guidelines. Adjust the content as needed based on your project specifics and repository setup.
-```
+### Prerequisites
+
+Ensure you have Flutter installed on your machine. You can download it from [here](https://flutter.dev/docs/get-started/install).
+
+### Steps
+
+1. Clone the repository:
+    ```sh
+    git clone https://github.com/Usukhbayar04/calculator_app.git
+    ```
+2. Navigate to the project directory:
+    ```sh
+    cd calculator_app
+    ```
+3. Install the dependencies:
+    ```sh
+    flutter pub get
+    ```
+4. Run the app:
+    ```sh
+    flutter run
+    ```
+    
+## Contributing
+
+1. Fork the repository.
+2. Create your feature branch:
+    ```sh
+    git checkout -b feature/your-feature-name
+    ```
+3. Commit your changes:
+    ```sh
+    git commit -m 'Add some feature'
+    ```
+4. Push to the branch:
+    ```sh
+    git push origin feature/your-feature-name
+    ```
+5. Open a pull request.
+
+License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
