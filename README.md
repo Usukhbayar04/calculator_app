@@ -12,8 +12,10 @@ A simple and elegant calculator application built using Flutter. This app provid
 
 ## Screenshots
 
-![Screenshot 1](https://github.com/Usukhbayar04/calculator_app/blob/master/assets/screenshot1.png)
-![Screenshot 2](https://github.com/Usukhbayar04/calculator_app/blob/master/assets/screenshot2.png)
+| ![Screenshot 1](https://github.com/Usukhbayar04/calculator_app/blob/master/assets/screenshot1.png) | ![Screenshot 2](https://github.com/Usukhbayar04/calculator_app/blob/master/assets/screenshot2.png) |
+|:--------------------------------------------------------------------------------------------------:|:--------------------------------------------------------------------------------------------------:|
+| Screenshot 1                                                                                      | Screenshot 2                                                                                      |
+
 
 ## Getting Started
 
